@@ -11,7 +11,6 @@
 
 def weight_conversion(weight):
     # Calculate the shipping charge.
-    shippingCost = 0.0
     ######################
 weight = float(input('Enter the weight of the package: '))
 
