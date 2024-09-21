@@ -30,6 +30,3 @@ elif weight > 10:
     
     return shippingCost
 
-#### This piece of the code has been done for you,
-#### you only need to worry about the actual shipping 
-#### charge logic in the weight_conversion function
